@@ -1,0 +1,9 @@
+name: Xayox
+main: io.kacper201016.xayox.Main
+version: 1.0
+author: [Kettler]
+
+commands:
+  kit:
+    description: xyz
+    usage: /kit
